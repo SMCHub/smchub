@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a modern, scalable platform.**
 
-- 📫 How to reach me **info@softacc.ch**
+- 📫 How to reach me **info@bonlivre.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
